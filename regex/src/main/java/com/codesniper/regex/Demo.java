@@ -4,6 +4,9 @@ import java.util.regex.Pattern;
 
 /**
  * 正则表达式demo 每个例子涉及到不同的知识点 多加练习 字符串匹配开始用正则(实践) 之后相信会掌握它
+ * DOC：https://www.runoob.com/regexp/regexp-syntax.html
+ * https://www.runoob.com/regexp/regexp-syntax.html
+ * https://www.cnblogs.com/richiewlq/p/7307581.html
  */
 public class Demo {
 
